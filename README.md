@@ -1,22 +1,76 @@
-<h1 align="center">Hi 👋, I'm Rishabh Kant Misra</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkant21&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkant21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhkant21" alt="rishabhkant21" /></a> </p>
-
-- 📫 How to reach me **rishabhkantmisra@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishabh-kant-misra-5287b647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-kant-misra-5287b647" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f87a6,100:ebf8e1&height=200&section=header&text=Rishabh%20Kant%20Misra&fontSize=45&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <b>🌍 Procurement | 📊 Data Analytics | ⚡ Supply Chain Optimization</b>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhkant21&show_icons=true&locale=en&layout=compact" alt="rishabhkant21" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhkant21&show_icons=true&locale=en" alt="rishabhkant21" /></p>
+## 👋 About Me  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkant21&" alt="rishabhkant21" /></p>
+I am a **data-driven professional** with experience in **procurement optimization, supplier management, and risk mitigation**.  
+My work combines **strategic sourcing** with **data analytics** to deliver cost savings, efficiency, and resilience in supply chains.  
+
+- 💡 Reduced **lead time by 30%** and achieved significant **cost savings** in procurement.  
+- ⚙️ Skilled in **SAP MM**, **Python**, **SQL**, **Power BI**, and **Data Visualization**.  
+- 🎯 Passionate about applying **analytics + AI** for smarter business decisions.  
+
+---
+
+## 🚀 Skills  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Procurement-Optimization-blue?style=for-the-badge&logo=SAP" />
+  <img src="https://img.shields.io/badge/Supplier-Management-green?style=for-the-badge&logo=Handshake" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-Python-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Queries-lightgrey?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Power%20BI-Visualization-orange?style=for-the-badge&logo=Power%20BI" />
+</p>
+
+---
+
+## 📜 Certifications  
+
+- ✅ **Data Analysis with Python** – IBM  
+- ✅ **Data Visualization with Python** – IBM  
+- ✅ **SQL for Data Analysis** – Fractal Analytics  
+- ✅ **Lean Six Sigma Green Belt** – SSAA  
+- ✅ **Supply Chain Foundations** – CSCMP & LinkedIn  
+- ✅ **Career Essentials in Data Analysis** – Microsoft & LinkedIn  
+
+---
+
+## 🎓 Education  
+
+- 🎓 **Professional Certificate in Data Analytics & Generative AI (2025)** – *E&ICT Academy IIT Guwahati*  
+- 🎓 **PGDM: Operations & Business Analytics (2024)** – *Jaipuria Institute of Management*  
+- 🎓 **B.Tech: Computer Science Engineering (2015)** – *Jaypee Institute of Information and Technology*  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhkantmisra&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkantmisra&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishabh-kant-misra-5287b647/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Kant%20Misra-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ebf8e1,100:3f87a6&height=120&section=footer"/>
+</p>
