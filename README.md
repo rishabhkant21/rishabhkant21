@@ -54,8 +54,8 @@ My work combines **strategic sourcing** with **data analytics** to deliver cost 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhkantmisra&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkantmisra&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhkant21&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkant21&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
