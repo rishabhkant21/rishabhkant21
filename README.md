@@ -71,6 +71,11 @@ My work combines **strategic sourcing** with **data analytics** to deliver cost 
 
 ---
 
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rishabhkant21.rishabhkant21" alt="Profile views" />
+</p>
+
 <!-- Footer GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
