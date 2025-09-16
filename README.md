@@ -13,9 +13,9 @@
 
 I am a **data-driven professional** with experience in **procurement optimization, supplier management, and risk mitigation**.  
 My work combines **strategic sourcing** with **data analytics** to deliver cost savings, efficiency, and resilience in supply chains.
- 
-- ⚙️ Skilled in **SAP MM**, **Python**, **SQL**, **Power BI**, **Data Visualization**, and **Data Analysis**.  
-- 🎯 Passionate about applying **analytics + AI** for smarter business decisions.  
+
+- ⚙️ Skilled in **Python**, **SQL**, **Power BI**, **Data Visualization**, and **Data Analysis**  
+- 🎯 Passionate about applying **Analytics + AI** for smarter business decisions  
 
 ---
 
@@ -51,11 +51,14 @@ My work combines **strategic sourcing** with **data analytics** to deliver cost 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streaks & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhkant21&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkant21&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkant21&theme=radical&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhkant21&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -65,6 +68,9 @@ My work combines **strategic sourcing** with **data analytics** to deliver cost 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishabh-kant-misra-5287b647/">
     <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Kant%20Misra-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://rishabhkant21.github.io/RishabhKantMisra.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Rishabh%20Kant%20Misra-orange?style=for-the-badge&logo=githubpages" />
   </a>
 </p>
 
