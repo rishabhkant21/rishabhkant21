@@ -13,8 +13,7 @@
 
 I am a **data-driven professional** with experience in **procurement optimization, supplier management, and risk mitigation**.  
 My work combines **strategic sourcing** with **data analytics** to deliver cost savings, efficiency, and resilience in supply chains.
-
-- 💡 Reduced **lead time by 30%** and achieved significant **cost savings** in procurement.  
+ 
 - ⚙️ Skilled in **SAP MM**, **Python**, **SQL**, **Power BI**, **Data Visualization**, and **Data Analysis**.  
 - 🎯 Passionate about applying **analytics + AI** for smarter business decisions.  
 
