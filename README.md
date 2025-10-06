@@ -1,6 +1,10 @@
-<!-- Animated Header -->
+<!-- 🌟 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F87A6&center=true&vCenter=true&width=600&fontSize=32&lines=Hi+I'm+Rishabh+Kant+Misra;Procurement+%7C+Data+Analytics+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&size=36&pause=1000&color=2CA6F8&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Rishabh+Kant+Misra;Procurement+%7C+Data+Analytics+%7C+AI+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <em>Transforming procurement decisions through data, analytics, and AI-driven insights.</em>
 </p>
 
 <p align="center">
